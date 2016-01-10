@@ -1,0 +1,3 @@
+-- Vincent Siu
+-- projectEuler
+-- Problem 002
